@@ -2,6 +2,15 @@
 
 Este repositorio contiene tres proyectos que exploran diferentes aplicaciones de modelos de Transformers y su implementación tanto de manera local como mediante APIs de Hugging Face.
 
+## Configuración del Token
+
+Antes de ejecutar los proyectos, asegúrate de configurar correctamente tu token de Hugging Face. Para utilizar modelos a través de la API, es necesario:
+
+1. Crear un token de acceso en tu cuenta de Hugging Face.
+   - Ve a [Tu cuenta en Hugging Face](https://huggingface.co/settings/tokens) y genera un nuevo token con los permisos necesarios.
+2. Agregar permisos específicos para el modelo que deseas usar.
+   - Durante la configuración del token, asegúrate de incluir los modelos requeridos en la lista de permisos.
+
 ---
 
 ## Requisitos para la Ejecución
